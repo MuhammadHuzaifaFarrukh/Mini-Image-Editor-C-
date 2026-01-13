@@ -4,6 +4,15 @@ A robust C++ command-line application for processing and editing **PGM (Grayscal
 
 ---
 
+## 🖼️ Visual Samples
+Here are some examples of the filters applied using this editor:
+
+| Original (Grayscale) | Posterized Filter | Thresholding |
+| :---: | :---: | :---: |
+| ![Grayscale](./test/some%20sample%20outputs/grayscale.png) | ![Posterized](./test/some%20sample%20outputs/posterized.png) | ![Threshold](./test/some%20sample%20outputs/threshold.png) |
+
+---
+
 ## 🚀 Key Features
 
 ### 🖼️ Supported Formats
