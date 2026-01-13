@@ -9,7 +9,7 @@ Here is a comparison between the original input and the processed results:
 
 | Original Image | Grayscale Filter | Posterized Filter | Thresholding |
 | :---: | :---: | :---: | :---: |
-| ![Original](./test/some%20sample%20input_images/goku.png) | ![Grayscale](./test/some%20sample%20outputs/grayscale.png) | ![Posterized](./test/some%20sample%20outputs/posterized.png) | ![Threshold](./test/some%20sample%20outputs/threshold.png) |
+| ![Original](./test/input_images/goku.png) | ![Grayscale](./test/some%20sample%20outputs/grayscale.png) | ![Posterized](./test/some%20sample%20outputs/posterized.png) | ![Threshold](./test/some%20sample%20outputs/threshold.png) |
 
 ---
 
