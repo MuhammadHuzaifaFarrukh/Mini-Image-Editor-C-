@@ -52,3 +52,5 @@ This project is built using a modular OOP approach to ensure code reusability an
 * All files must be in the same folder or you may give their paths for each file
 * You can include all the .cpp files in the main.cpp or you may just write every single .cpp file in the command
 * Read each image to perform operation on 
+
+### If you don't know about OOP Concepts , you can check out the same project in the Without OOP Struct Based Directory.
